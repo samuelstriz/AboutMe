@@ -1,5 +1,5 @@
-# AboutMe
-Samuel J. Striz 
+# Samuel J. Striz
+Professional Summary 
 
 1702 Keith Dr. Hellertown, PA, 18055
 484-735-3521 | sjs222@lehigh.edu
